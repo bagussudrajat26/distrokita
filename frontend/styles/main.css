@@ -1,0 +1,94 @@
+.html {
+    background-color: #cc1010;
+}
+
+
+.navbar-brand {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 32px;
+}
+
+.nav-item {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.nav-item .nav-link.active {
+    font-weight: 600;
+    color: #FCBB3A !important;
+}
+
+.nav-link {
+    color: #000000 !important;
+}
+
+.nav-link:hover {
+    color: #FCBB3A !important;
+}
+
+/* Hero Section */
+.hero-section {
+    margin-top: 45px;
+}
+
+.hero-section h1 {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 52px;
+}
+
+.hero-section p {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.hero-section .btn-cta {
+    margin-top: 80px;
+}
+
+.hero-section .btn-cta img {
+    width: 67px;
+}
+
+.hero-section .btn {
+    border-radius: 10px;
+    margin-left: 15px;
+}
+
+/* Akhir Hero Section */
+
+.trend-categories h1 {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.trend-categories img {
+    margin-top: 20px;
+}
+
+.trend-categories h2 {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 18px;
+}
+
+.trend-categories .f2 {
+    position: absolute;
+    width: 275px;
+    height: 300px;
+    left: 430px;
+    top: 870px;
+}
+
+.trend-categories div {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 20px;
+}
